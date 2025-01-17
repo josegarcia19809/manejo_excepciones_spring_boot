@@ -1,0 +1,27 @@
+Spring Framework 6 & Spring Boot 3 desde cero a experto
+
+Manejo de excepciones: Creando clase DTO de Error
+
+
+
+04:17
+Controlador y Anotación @ControllerAdvice para manejo de excepciones
+05:15
+Añanidendo método handler para el manejo de excepción
+04:18
+Personalizando error 404
+08:09
+Personalizando página de error para la excepción NumberFormatException
+11:11
+Manejando excepción personalizada creando clases Model y Service
+11:20
+Añadiendo método handler ver y lanzando excepción null pointer
+12:19
+Creando clase Exception personalizada
+10:33
+Lanzamiento de excepción usando Api Optional de Java 8
+14:07
+Optimizando codigo con el Api Stream de Java 8
+09:15
+Descargar Código Fuente
+00:03
