@@ -1,11 +1,11 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Creando clase DTO de Error
+Manejo de excepciones: Controlador y Anotación @ControllerAdvice para manejo de excepciones
 
 
 
 04:17
-Controlador y Anotación @ControllerAdvice para manejo de excepciones
+
 05:15
 Añanidendo método handler para el manejo de excepción
 04:18
