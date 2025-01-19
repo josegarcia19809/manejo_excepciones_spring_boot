@@ -1,14 +1,7 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Controlador y Anotación @ControllerAdvice para manejo de excepciones
+Manejo de excepciones: Añanidendo método handler para el manejo de excepción
 
-
-
-04:17
-
-05:15
-Añanidendo método handler para el manejo de excepción
-04:18
 Personalizando error 404
 08:09
 Personalizando página de error para la excepción NumberFormatException
