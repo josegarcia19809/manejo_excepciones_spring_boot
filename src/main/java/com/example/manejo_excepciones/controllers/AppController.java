@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class AppController {
     @GetMapping("/app")
     public String index() {
-        int resultado = 500 / 0;
+        // int resultado = 500 / 0;
+        int resultado = Integer.parseInt("10s");
         System.out.println(resultado);
         return "Hello World";
     }
