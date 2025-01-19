@@ -1,8 +1,8 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Añanidendo método handler para el manejo de excepción
+Manejo de excepciones: Personalizando error 404
 
-Personalizando error 404
+
 08:09
 Personalizando página de error para la excepción NumberFormatException
 11:11
