@@ -1,5 +1,6 @@
 package com.example.manejo_excepciones.controllers;
 
+import com.example.manejo_excepciones.exceptions.UserNotFoundException;
 import com.example.manejo_excepciones.models.domain.User;
 import com.example.manejo_excepciones.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,6 +27,9 @@ public class AppController {
     @GetMapping("/show/{id}")
     public User show(@PathVariable(name = "id") Long id) {
         User user = userService.findById(id);
+        if(user == null) {
+            throw new UserNotFoundException("Error, el usuario no existe");
+        }
         System.out.println(user.getName());
         return user;
     }

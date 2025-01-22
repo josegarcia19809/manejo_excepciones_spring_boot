@@ -1,10 +1,10 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Añadiendo método handler show y lanzando excepción null pointer
+Manejo de excepciones: Creando clase Exception personalizada
 
 
 12:19
-Creando clase Exception personalizada
+
 10:33
 Lanzamiento de excepción usando Api Optional de Java 8
 14:07
