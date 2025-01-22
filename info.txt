@@ -1,6 +1,6 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Creando clase Exception personalizada
+Manejo de excepciones: Lanzamiento de excepción usando Api Optional de Java 8 (1 parte)
 
 
 12:19
