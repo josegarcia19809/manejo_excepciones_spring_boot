@@ -1,7 +1,7 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
 
-Manejo de excepciones: Lanzamiento de excepción usando Api Optional de Java 8 (2 parte)
+Manejo de excepciones: Creando clase AppConfig para guardar a los users
 
 12:19
 
