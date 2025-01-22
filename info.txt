@@ -1,8 +1,8 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Manejando excepción personalizada creando clases Model y Service
+Manejo de excepciones: Añadiendo método handler show y lanzando excepción null pointer
 
-Añadiendo método handler ver y lanzando excepción null pointer
+
 12:19
 Creando clase Exception personalizada
 10:33
