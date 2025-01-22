@@ -1,13 +1,7 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
-Manejo de excepciones: Personalizando página de error para la excepción NumberFormatException
+Manejo de excepciones: Manejando excepción personalizada creando clases Model y Service
 
-
-08:09
-
-11:11
-Manejando excepción personalizada creando clases Model y Service
-11:20
 Añadiendo método handler ver y lanzando excepción null pointer
 12:19
 Creando clase Exception personalizada
